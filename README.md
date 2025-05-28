@@ -1,9 +1,4 @@
-<!-- Sideways ASCII Lightsaber (Top) -->
 <p align="center">
-
-<!--
-    ||||||||||||||||||||||||||||||||||||||||||||||||
--->
 </p>
 
 <p align="center">
@@ -62,10 +57,5 @@ If you’re interested in collaborating, have feedback, or just want to connect,
   </a>
 </p>
 
-<!-- Sideways ASCII Lightsaber (Bottom) -->
 <p align="center">
-
-<!--
-    ||||||||||||||||||||||||||||||||||||||||||||||||
--->
 </p>
