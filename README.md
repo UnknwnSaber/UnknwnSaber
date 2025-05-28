@@ -25,5 +25,4 @@ If you’re interested in collaborating, have feedback, or just want to connect,
 
 ---
 **Connect:**  
-[![X](https://img.shields.io/badge/X-1A73E8?style=flat&logo=twitter&logoColor=white)](https://x.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B4B4B?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![X](https://img.shields.io/badge/X-1A73E8?style=flat&logo=twitter&logoColor=white)](https://x.com/unknwnsaber)
