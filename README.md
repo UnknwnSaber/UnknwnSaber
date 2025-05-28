@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/saber-logo.png" width="120" alt="SABER logo"/>
+  <img src="saberlogo.png" width="120" alt="SABER logo"/>
 </p>
 
 # Saber | UnknwnSaber
