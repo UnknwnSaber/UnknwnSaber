@@ -24,5 +24,14 @@ If you’re interested in collaborating, have feedback, or just want to connect,
 - Social engineering tactics
 
 ---
-**Connect:**  
-[![X](https://img.shields.io/badge/X-1A73E8?style=flat&logo=twitter&logoColor=white)](https://x.com/unknwnsaber)
+**Connect with me:**  
+
+<p align="left">
+  <a href="https://x.com/unknwnsaber" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@unknwnsaber" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>
