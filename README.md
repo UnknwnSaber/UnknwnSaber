@@ -4,8 +4,6 @@
 
 # Saber | UnknwnSaber
 
-**About Me**
-
 Hi, I’m Saber (aka UnknwnSaber)!
 
 I’ve been coding for a while now, with a strong passion for building tools that solve real-world problems. Over time, I’ve developed a solid foundation in cybersecurity—especially in areas like network analysis, automation, and red teaming. My journey so far has included creating advanced port scanners, packet sniffers, and other security-focused utilities.
