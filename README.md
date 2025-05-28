@@ -62,24 +62,6 @@ If you’re interested in collaborating, have feedback, or just want to connect,
   </a>
 </p>
 
----
-
-## SABER Brand Colors & Fonts
-
-| Color Name   | Hex       | Usage                             |
-|--------------|-----------|-----------------------------------|
-| Saber Red    | #C1272D   | Logo, highlights, call-to-action  |
-| Onyx Black   | #111111   | Backgrounds, text                 |
-| Pure White   | #FFFFFF   | Background, contrast              |
-| Steel Gray   | #4B4B4B   | Secondary text, UI elements       |
-| Cyber Blue   | #1A73E8   | Links, accents                    |
-
-**Fonts:**  
-- Headers & Logo: [Orbitron](https://fonts.google.com/specimen/Orbitron) — futuristic, tech-inspired  
-- Body & Text: [Montserrat](https://fonts.google.com/specimen/Montserrat) — clean, readable
-
----
-
 <!-- Sideways ASCII Lightsaber (Bottom) -->
 <p align="center">
 
